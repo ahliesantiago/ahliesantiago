@@ -4,7 +4,7 @@
 > Aspiring Digital Artist & Game Developer.
 
 - 🔭 I’m currently working on my art and dev portfolio. Coming soon!
-- 🌱 I’m currently learning MERN, Flask, and the AWS platform.
+- 🌱 I’m currently learning Next.js, APIs & GraphQL, and the AWS platform.
 - 🎯 My immediate learning goals include UI/UX Design and VILT.
 - 👯 I’m open to collaborating on projects!
 - ⚡ Fun fact: I am a career shifter + <a href="https://www.grouvee.com/user/63712-ahysanti/shelves/330345-played/">ga</a><a href="https://www.backloggd.com/u/ahysanti/games/user-rating/">mer</a> + <a href="https://trakt.tv/users/ahysanti/history/shows/">all-around</a> <a href="https://www.goodreads.com/user/show/7552655-yssa-santiago">geek</a>.
