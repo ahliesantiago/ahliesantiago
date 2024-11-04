@@ -14,21 +14,31 @@
 
 ## Tools and Technologies 💻
 ### Languages, Libraries, Frameworks
+<table>
+  <tr><td>
+
 | PHP |  CI  | Laravel |
 |-----| ---- | ------- |
 | <a href="https://www.php.net"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="php" height="48"/></a> | <a href="https://codeigniter.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain-wordmark.svg" alt="code-igniter" height="48" /></a> | <p align="center"><a href="https://laravel.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="laravel" height="48"/></a></p> |
 
-|  JS  | React | Astro | TS |
-| ---- | ----- | ----- | -- |
-| <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" height="48"/></a> | <a href="https://reactjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" height="48"/></a> | <a href="https://astro.build/"><img src="https://astro.build/assets/press/astro-icon-light.svg" alt="astro" height="48" /> | <a href="https://www.typescriptlang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" alt="typescript" height="48"/></a> |
+  </td><td>
 
 | Ruby | Rails |
 | ---- | ----- |
 | <a href="https://www.ruby-lang.org/en/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-plain.svg" alt="ruby" height="48"/></a> | <a href="https://rubyonrails.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-plain.svg" alt="rails" height="48"/></a> |
 
+  </td><td>
+
 | Python |
 | ------ |
 | <a href="https://www.python.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" height="48"/></a> |
+
+  </td></tr>
+</table>
+
+|  JS  | React | Astro | TS |
+| ---- | ----- | ----- | -- |
+| <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" height="48"/></a> | <a href="https://reactjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" height="48"/></a> | <a href="https://astro.build/"><img src="https://astro.build/assets/press/astro-icon-light.svg" alt="astro" height="48" /> | <a href="https://www.typescriptlang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" alt="typescript" height="48"/></a> |
 
 ### Cloud
 | AWS | Azure | GCP | GitHub |
@@ -51,11 +61,11 @@
 
 | Shell | Editors & IDEs | Various |
 | ----- | -------------- | ------- |
-| <p align="center"><a href="https://learn.microsoft.com/en-us/powershell/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" alt="powershell" height="48"/></a><a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" alt="bash" height="48"/></a></p> | <p align="center"><a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" height="48"/></a><a href="https://www.jetbrains.com/pycharm/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" alt="pycharm" height="48"/></a></p> | <p align="center"><a href="#"><img src="https://skillicons.dev/icons?i=obsidian,notion" /></a><a href="https://trello.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-plain.svg" alt="trello" height="48"/></a></p> |
+| <p align="center"><a href="https://learn.microsoft.com/en-us/powershell/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" alt="powershell" height="48"/></a><a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" alt="bash" height="48"/></a></p> | <p align="center"><a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" height="48"/></a><a href="https://www.jetbrains.com/pycharm/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" alt="pycharm" height="48"/></a></p> | <p align="center"><a href="https://obsidian.md/"><img src="https://skillicons.dev/icons?i=obsidian" /></a><a href="https://www.notion.so/"><img src="https://skillicons.dev/icons?i=notion" /></a><a href="https://trello.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-plain.svg" alt="trello" height="48"/></a></p> |
 
 | Game Dev | Art & Design |
 | -------- | ------------ |
-| <p align="center"><a href="https://godotengine.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" alt="godot" height="48"/></a><a href="#"><img src="https://skillicons.dev/icons?i=blender" /></a></p> | <p align="center"><a href="#"><a href="https://infinitestudio.art/painter.php"><img src="https://infinitestudio.art/images/painter_icon.png?20202907" alt="infinite painter" height="48"/></a><img src="https://images.squarespace-cdn.com/content/v1/5fb0aea913eba3050d739796/1605414815712-1NCQFW8FON7JSSG9AWFE/sb_icon.c56b2ca.png?format=1500w" alt="sketchbook" height="48"/></a><a href="https://krita.org/"><img src="https://styles.redditmedia.com/t5_2u4qs/styles/communityIcon_58dg7gpxt5811.png" alt="krita" height="48"/></a><a href="#"><img src="https://skillicons.dev/icons?i=ai,ps" /></a><a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" alt="figma" height="48"/></a></p> |
+| <p align="center"><a href="https://godotengine.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" alt="godot" height="48"/></a><a href="#"><img src="https://skillicons.dev/icons?i=blender" /></a></p> | <p align="center"><a href="#"><a href="https://infinitestudio.art/painter.php"><img src="https://infinitestudio.art/images/painter_icon.png?20202907" alt="infinite painter" height="48"/></a><img src="https://images.squarespace-cdn.com/content/v1/5fb0aea913eba3050d739796/1605414815712-1NCQFW8FON7JSSG9AWFE/sb_icon.c56b2ca.png?format=1500w" alt="sketchbook" height="48"/></a><a href="https://krita.org/"><img src="https://styles.redditmedia.com/t5_2u4qs/styles/communityIcon_58dg7gpxt5811.png" alt="krita" height="48"/></a><a href="#"><img src="https://skillicons.dev/icons?i=ai" /></a><a href="#"><img src="https://skillicons.dev/icons?i=ps" /></a><a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" alt="figma" height="48"/></a></p> |
 
 [![roadmap.sh](https://roadmap.sh/card/wide/6699d445fc0c013a407e9d1a?variant=dark)](https://roadmap.sh)
 
