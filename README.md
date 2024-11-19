@@ -5,12 +5,9 @@
 
 - 🔭 I’m currently working on my art and dev portfolio. Coming soon!
 - 🌱 I’m currently learning Python, APIs, and the AWS platform.
-- 🎯 My immediate learning goals include UI/UX Design, Next.js, Vue (sp. VILT), and Unity.
+- 🎯 My immediate learning goals include Vue (sp. VILT), Unity, and UI/UX design principles.
 - 👯 I’m open to collaborating on projects!
 - ⚡ Fun fact: I am a career shifter + <a href="https://www.grouvee.com/user/63712-ahysanti/shelves/330345-played/">ga</a><a href="https://www.backloggd.com/u/ahysanti/games/user-rating/">mer</a> + <a href="https://trakt.tv/users/ahysanti/history/shows/">all-around</a> <a href="https://www.goodreads.com/user/show/7552655-yssa-santiago">geek</a>.
-<!--
-- 🤔 I’m looking for help with C# and getting started on game dev (eyeing Godot as the game engine).
--->
 
 ## Tools and Technologies 💻
 ### Languages, Libraries, Frameworks
@@ -36,9 +33,9 @@
   </td></tr>
 </table>
 
-|  JS  | React | Astro | TS |
-| ---- | ----- | ----- | -- |
-| <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" height="48"/></a> | <a href="https://reactjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" height="48"/></a> | <a href="https://astro.build/"><img src="https://astro.build/assets/press/astro-icon-light.svg" alt="astro" height="48" /> | <a href="https://www.typescriptlang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" alt="typescript" height="48"/></a> |
+|  JS  | React | Astro | Next.js | TS |
+| ---- | ----- | ----- | ------- | -- |
+| <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" height="48"/></a> | <a href="https://reactjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" height="48"/></a> | <a href="https://astro.build/"><img src="https://astro.build/assets/press/astro-icon-light.svg" alt="astro" height="48" /> | <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="nextjs" height="48" /></a> | <a href="https://www.typescriptlang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" alt="typescript" height="48"/></a> |
 
 ### Cloud
 | AWS | Azure | GCP | GitHub |
